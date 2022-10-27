@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HariRepository
 - 👀 I’m interested in Image and video processing
-- 🌱 I’m currently learning tensorflow and keras
 - 💞️ I’m looking to collaborate Real-time projects ...
 - 📫 How to reach me @harikrishnasamy@gmail.com
 
